@@ -150,6 +150,10 @@ Three checks one station settles in an afternoon
      not, readOk() is being called for the wrong event.
 ```
 
+## The same finding, written up
+
+The same reading is written up as a page: <https://plantroomlabs.com/tools/tuning-stale-scan/>. It carries a captured run of this program, the download with its byte count (12,836) and SHA-256 (`dda645974305a249...`) measured off the file the site serves, the Niagara version the bytecode was read on (`4.15.5.22`) beside the version of the JACE this work targets (`4.14.0.162`), and the note on poll rates and tuning policies that explains what a station inherits from the defaults.
+
 ## Licence
 
 MIT. Written by Usama Iqbal at [Plantroom Labs](https://plantroomlabs.com).
